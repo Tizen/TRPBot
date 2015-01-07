@@ -1,506 +1,1270 @@
 (dp0
-Vsexbot
+Vtest1
 p1
-Va gynoid, that when given proper input, returns sex
+Vtest2: {term:test2}
 p2
-sVshouldlaerebekicked
+sVsnuupy
 p3
-VYes.
+VBrings good luck https://i.imgur.com/rStzXLT.jpg
 p4
-sVffs
+sVtest2
 p5
-VFor Fucks Sake
+Vtest3: {term:test3}
 p6
-sVldr
+sVnclose
 p7
-V- Long Distance Relationship
+VClosing the sale by getting the chick's number.
 p8
-sVsidebar
+sVsexbot
 p9
-Vhttp://www.reddit.com/r/theredpill scroll down approximately 1 page; it is located to your right.
+Va gynoid, that when given proper input, returns sex
 p10
-sVafbb
+sVshouldlaerebekicked
 p11
-VAlpha Fucks; Beta Bucks - used in TRP to denote the system that naturally occurs under female hypergamy.  Alpha males will be considered viable and desirable mates while betas will be considered good providers for everything but tingles.
+Vshutthehellupbothofyou
 p12
-sVthuggery
+sVpsychocyanosis
 p13
-VThe act of giving the stinkeye to nearby males in order to display your AMOP (alpha male of park) status. 
+Va mental illness characterized by a blue-pill mentality
 p14
-sVfeminazi
+sVleague
 p15
-VThe people who are responsible for the death of millions of Jews and white knights
+Vhttp://therationalmale.com/2012/01/05/a-league-of-your-own/
 p16
-sVpump
+sVffs
 p17
-V"This is the time when you first start lifting; this is where your evolution begins. Look at you; you've made some beginner gains that no one cares about, or notices, but you've experienced your first pump, and you've experienced your first loss of pump. You've seen what you could be and what you once were all in the same day. This is a lot to take in; this is your first taste of glory" - https://www.youtube.com/watch?v=7kbSfFFEvxw
+VFor Fucks Sake
 p18
-sVcc
+sVtest3
 p19
-V\u201cCock Carousel.\u201d The period of time in a woman's life where she successfully exploits her sexual value and maximizes her hypergamous tendancies by having sex with as many alphas as possible. Usually happens between ages 18-27. Often ends when the woman hits the wall.
+Vtest1: {term:test1}
 p20
-sVbodyweight
+sVsnuupygame
 p21
-VYes, you can get stronger doing bodyweight.  No it will not be as fast as lifting weights.  Yes you can get aesthetic.  No you will not be as aesthetic as a bodybuilder.  Stop talking about bodyweight, no one wants to hear it.
+Vsit on her
 p22
-sVpeptalk
+sVldr
 p23
-VRemember: she poops, she's self conscious, and someone somewhere is tired of her shit.
+V- Long Distance Relationship
 p24
-sVplate
+sVldw
 p25
-VGaming multiple women simultaneously to boost ones sexual market value.
+VLDW: Long Distance Wingman - when you blow up a bros phone with random texts when he's out on a date with a chick so he can play it off as preselection and make the bitch jealous
 p26
-sVboobsorbutt
+sVhugbox
 p27
-VWhy choose one?
+VA derogatory term for an environment (usually on the internet) in which a group with similar interests gathers to discuss topics in what they intend to be a safe, comforting, and confrontation-free environment. See: http://tinyurl.com/llyqbuo
 p28
-sVrules
-p29
-V1:) No trolling. 2:) Undesirables will be removed. 3:) Stay RP my friends.
-p30
-sVcoolidgeeffect
-p31
-VThe Coolidge effect is a phenomenon seen in mammalian species whereby males (and to a lesser extent females) exhibit renewed sexual interest if introduced to new receptive sexual partners, even after refusing sex from prior but still available sexual partners.
-p32
-sVgame
-p33
-VA loosely based set of behaviors specifically designed to increase attraction.
-p34
-sVmeditate
-p35
-Vhttp://www.urbandharma.org/udharma4/mpe.html
-p36
-sVdt
-p37
-VDark Triad: The dark triad is a group of three personality traits: narcissism, Machiavellianism and psychopathy.
-p38
-sVfatshaming
-p39
-VA method by which one encourage others to obtain and maintain a healthy weight with shame. Proven to work. 
-p40
-sVredpill
-p41
-VFrom the Matrix films, the recognition and awareness of the way that feminism, feminists. and their white-knight enablers are screwing up society. Often hard to swallow, because it sharply contrasts the fairy tale views instilled in youth. Antonym of Bluepill.
-p42
-sVlaere
-p43
-VI am the greatest
-p44
-sVrtfm
-p45
-VGo read the sidebar
-p46
-sVamog
-p47
-VAlpha Male Of Group.
-p48
-sV"soft
-p49
-Vnext" To place a woman on the backburner; to not initiate further contact, but be open to her attempts to contact you. See "next?"
-p50
-sVbluepill
-p51
-VFrom The Matrix and its sequels, to be plugged in to society's expectations for you; to live in subservience, often against your best interest, towards the whims and desires of female society. Antonym of Redpill.
-p52
-sVagreeandamplify
-p53
-VAgree & Amplify - A common tactic used to negate a shit test. ex. "How many girls have you been with?" "Today? None that I can remember"
-p54
-sVsoft
-p55
-Vnext To place a woman on the backburner; to not initiate further contact, but be open to her attempts to contact you. See "next?"
-p56
-sVawalt
-p57
-VAll Women Are Like That
-p58
-sVqts
-p59
-Vquicktimes: beating your premature ejaculation record (see also: cuties)
-p60
-sVframe
-p61
-VFrame - "To be the mighty oak standing in the passing storm." To hold your position as a dominant man who cannot be wavered by passing events.
-p62
-sVbuttsex
-p63
-Vsurprise!
-p64
-sVmantra
-p65
-VA Red Pill haiku / Read the sidebar, lift, next her. / That is the essence.
-p66
-sVnofap
-p67
-Vincel magic
-p68
-sVorbiter
-p69
-VAlso known as Beta Orbiter. A beta guy who accepted the proposal to "just be friends" from a girl he has oneitis for. He will stick around her and constantly validate her whenever she requests it. Also known as "friendzone."
-p70
-sVniceguy
-p71
-VA beta male trait. A nice guy is a man who puts his wants, desires, and ultimately himself last for the whims and needs of another with the often unmet expectation of a reward. Read the book "No More Mr Nice Guy"
-p72
-sVnoob
-p73
-VA noob is a person who really sucks at game but refuses to learn/listen to people who are skilled. Many of them may have been playing the game for a while, but still suck at it. They usually have no hope.
-p74
-sVnuclear
-p75
-VFirst you tried being a good person, then you didn't care anymore, and now you're nuclear with a woman. When all attempts to get laid failed, or she presents herself as unsuitable, you say whatever you freely want to her; destroying her frame in the process. May lead to heated exchanges with social consequences; use responsibly.
-p76
-sV"test
-p77
-Vwith quotes" bar
-p78
-sVwowso
-p79
-VCunt destroyer. 
-p80
-sVversion
-p81
-V{version} by Tizen(work/home)
-p82
-sVdlv
-p83
-VDisplay of lower value.
-p84
-sVfordinner
-p85
-VMaking you a sandwich right now babe
-p86
-sVapproach
-p87
-VApproach anxiety is the social inhibition of being able to talk to women with sexual intent. With training, it can be overcome.
-p88
-sVfomo
-p89
-VFear of missing out.
-p90
-sVlmr
-p91
-VLast Minute Resistance
-p92
-sVmmv
-p93
-VMarriage Market Value. A shorthand statement for \u201cwhat you bring to a marriage/LTR,\u201d whether for a long term monogamous relationship or for a marriage. MMV is a balance of attraction, reliability, and leadership. The focus is building a strong couple, or a strong family.
-p94
-sVrubycando
-p95
-Vplease kick me
-p96
-sVpua
-p97
-VPick-Up Artist(ry): The irrational belief that crafting strategy to get a woman is more important than working on yourself (which is the key to getting women in the first place.)
-p98
-sVgerbiltriforce
-p99
-Vwhen too many gerbils combine to form their shitty rationalizations that are betamax.
-p100
-sVbp
-p101
-V"Blue Pill", from The Matrix and its sequels. The path of conformity with Society\u2019s expectations; the state of being unaware of the problems engendered by society. See also "rp".
-p102
-sVmangina
-p103
-VAn unfortunate (in all ways) combination of \u201cman\u201d and \u201cvagina\u201d. Generally used to describe a male person who has left his balls in some woman\u2019s purse.
-p104
-sVasl
-p105
-VAndroid/2hours/Interwebz
-p106
-sVltr
-p107
-VLong Term Relationship.
-p108
-sVmonk
-p109
-Vmode withdrawal from society for the sake of self-improvement
-p110
-sVnerds
-p111
-Vhttps://www.youtube.com/watch?v=tZVdR19E5mU
-p112
-sVweakwords
-p113
-VHow are you m'lady? I just wanted to know, I don't know, if you want to umm maybe go out umm sometime I guess XD pls respond. It would be my honor to open the car door for you. Where would you like to go? It's okay umm if you're too busy; I totally understand. You know, life is funny sometimes...
-p114
-sVhypergamy
-p115
-VThe instinctual urge for women to seek out the best alpha available.
-p116
-sVapproachanxiety
-p117
-VSomeone with approach anxiety feels highly nervous, awkward and distressed before the act of approaching and getting to know women he has never met before. Derives from man's fear that he has the possibility of being rejected. Can be gerbil\u2019d into \u201cI want to work on myself first\u201d or \u201call the girls at this bar are sluts\u201d
-p118
-sVfriendzone
-p119
-VAlso known as Beta Orbiter. A beta guy who accepted the proposal to "just be friends" from a girl he has oneitis for. He will stick around her and constantly validate her whenever she requests it.
-p120
-sVoneitis
-p121
-VWhen a guy has fallen in love with a woman in the same way a boy loves his mother. He obsesses about her, but she does not reciprocate. Love is a drug, and your dumbass got addicted to one supplier. 
-p122
-sVwall
-p123
-VThe point in a woman's life where her ego and self-assessed view of her sexual market value exceed her actual sexual market value; the beginning of the decline.
-p124
-sVmgtow
-p125
-VMGTOW (Men Going Their Own Way) is a way of life which refuses to defer to women in defining the worth of men. Instead, it focuses on positive male aspects, inviting men to go their own way in life.
-p126
-sVnonsense
-p127
-Vasjfal;sdjf
-p128
-sVfuckyourfill
-p129
-V"Someday, if you are lucky, you will wake up and realize that you are old. That pretty ass of yours will sag. Your belly will grow soft, and your back will ache in the night and grey hairs will sprout from your ears. No one will want you anymore. Make sure you fucked your fill before that day."
-p130
-sVstealthsuit
-p131
-VRighteously racist, in a good way. 
-p132
-sVpof
-p133
-VPlentyOfFish.com
-p134
-sVnawalt
-p135
-VNot All Women Are Like That. A common response to generalizations, signaling a fundamental inability to understand how generalizations work.
-p136
-sVgerbil
-p137
-VThe male version of the rationalization hamster. See also: hamster
-p138
-sVwhiteknight
-p139
-VA man who \u201ccomes to the rescue\u201d of a woman, or of women, reflexively, emotionally-driven, without thought or even looking at the situation
-p140
-sVnext
-p141
-VTerminate pursuit of a specific woman due to red flags or other signs that she will require more effort than she is worth.
-p142
-sVcarousel
-p143
-V\u201cCock Carousel.\u201d The period of time in a woman's life where she successfully exploits her sexual value and maximizes her hypergamous tendancies by having sex with as many alphas as possible. Usually happens between ages 18-27. Often ends when the woman hits the wall.
-p144
-sVprivilege
-p145
-VMuch like the oil in your vehicle, this should be checked often.
-p146
-sVincel
-p147
-VInvoluntarily Celibate.
-p148
-sVhamster
-p149
-VThe tendency for women to use rationalization to resolve mental conflict and avoid cognitive dissonance. The core mechanism that allows women to say one thing and do a different thing.
-p150
-sVwowsotime
-p151
-VMy local time is fuck you.
-p152
-sVjackp
-p153
-VFaggot without compare, like the Gummi Bears. 
-p154
-sVclitoris
-p155
-Va mythical appendage said to be integral to the female anatomy; Amundsen couldn't even find it
-p156
-sVbulk
-p157
-VFigure up your BMR, eat 500-1000 calories above that per day in high protein foods primarily (chicken, beef, pork, almonds, eggs, etc), good carbs (not refined sugar or bread, beans/brown rice/oats), then a healthy amount of saturated fat (and fat); fat should be over 10% of your daily calories.
-p158
-sVlift
-p159
-V1:) Lift heavy objects. 2:) Put heavy objects down. 3:) Repeat. Look into Starting Strength, 5x5, Elliot Hulse, Hodgetwins, Convict Conditioning, BroScienceLife, /r/fitness, /r/ketogains, /r/bodyweightfitness
-p160
-sVispiracyallowed
-p161
-VNo
-p162
-sVljbf
-p163
-V"Let's Just Be Friends" See also, orbiter
-p164
-sVtindergame
-p165
-V http://www.reddit.com/r/TheRedPill/comments/2g8gt0/fp_rp_tinder_game_with_screenshot_commentary/
-p166
-sV5stages
-p167
-VThe 5 stages of unplugging. See: http://therationalmale.com/2012/07/25/the-5-stages-of-unplugging/
-p168
-sVkino
-p169
-Vkinesthetic game, involving mastery of body language and physical contact
-p170
-sVmarriage
-p171
-VIf you have to ask, no.
-p172
-sVmr
-p173
-VMen's Rights Group.
-p174
-sVtimeho
-p175
-VPopularized by Patrice O'neal (see blackphillip?): A time ho is a man who squanders his time resource like a female ho squanders her sexual resource.
-p176
-sVjamesfranco
-p177
-VA tool. Alias used by humvee.
-p178
-sVhaikugame
-p179
-VThe art of using haikus as a text game strategy. Ex: http://i.imgur.com/uKulCbG.jpg
-p180
-sVaa
-p181
-VSee either: approachanxiety or agreeandamplify
-p182
-sVdarktriad
-p183
-VThe dark triad is a group of three personality traits: narcissism, Machiavellianism and psychopathy.
-p184
-sVldltr
-p185
-VNo. Just no.
-p186
-sVfuck
-p187
-Vher right in the pussy Yes.
-p188
-sVa&a
-p189
-VSee agreeandamplify
-p190
-sVcardio
-p191
-VKiller of gains. See lift?
-p192
-sVskittles
-p193
-Vhttp://heartiste.wordpress.com/2009/05/19/be-a-skittles-man/
-p194
-sVsoftnext
-p195
-VTo place a woman on the backburner; to not initiate further contact, but be open to her attempts to contact you. See "next?"
-p196
-sVkarateschool
-p197
-VCoined by Patrice O'neal, and a metaphor for game, you are the Sensei of your karate school. Women white belts come and go, and they have to earn their belts. You may spar with many at a time, or narrow it down to the best black belt. She will try to win at every chance she can get; hold frame and one up her when challenged.
-p198
 sVafc
-p199
+p29
 VAverage Frustrated Chump (Also known as beta). The guy who smiles and buys the women drinks, only to watch them leave with a PUA.
-p200
-sVdhv
-p201
-VDemonstration of Higher Value: To display high sexual value and status to a woman, making you the target of sexual attraction.
-p202
-sVsnowflake
-p203
-VA woman who tries to persuade a man that she\u2019s somehow unique, different, or special by playing up her good girl resume and downplaying her bad girl resume. When used as a verb, snowflaking refers to the argument she puts forth to justify her claim.
-p204
-sVidontknowwhattodonext
-p205
-VGo lift!
-p206
-sVfr
-p207
-VField Report
-p208
-sVrabies
-p209
-V(Baby) An affliction that often strikes carousel-riding women when they first experience a slump in their SMV. The main symptom is that the ticking biological clock starts echoing in a mind formerly vacant of any such serious thoughts.
-p210
-sVtextgame
-p211
-VTexting women as a means of meeting up with them. To be used sparingly, as excessive texting is poisonous to sexual relations.
-p212
-sVblackphillip
-p213
-Vhttps://www.youtube.com/user/CultOfBlackPhillip
-p214
-sVadvice
-p215
-Vfuck her right in the pussy.
-p216
-sVtime
-p217
-VMy local time is currently {time} GMT-6.
-p218
-sVdiet
-p219
-VOverweight: www.reddit.com/r/keto Underweight: Brown Rice, Pasta, Oats
-p220
-sVnon-sense
-p221
-VFoo
-p222
+p30
+sVhell
+p31
+V- Its where you go when you enter a room of women
+p32
+sVquityourshit
+p33
+V"Any community that gets its laughs by pretending to be idiots will eventually be flooded by actual idiots who mistakenly believe that they're in good company." - Rene Descartes
+p34
+sVsidebar
+p35
+Vhttp://www.reddit.com/r/theredpill scroll down approximately 1 page; it is located to your right.
+p36
 sVbeta
-p223
+p37
 VTraits of provision: either providing resources or validatation to others, women (and perhaps men). Beta traits display low value to women if they are are put on too strong or too early in meeting- giving without equity.
-p224
-sVsolipsism
-p225
-V(female solipsism) Refers to the female's tendency to frame everything she experiences or witnesses in terms of herself and her own needs - personalizing it - even when such personalization would not make contextual sense.
-p226
-sVunicorn
-p227
-VUnicorn not found. Unicorn may be created.
-p228
-sVoccamsnickname
-p229
-VThe epitome of manhood.
-p230
-sValpha
-p231
-VLeader. Somebody who displays high value, or traits that are valued by women.
-p232
-sVman
-p233
-VWhat you should be.
-p234
+p38
+sVmacdaddy
+p39
+V<MacDaddy> tizen is my role model
+p40
+sVafbb
+p41
+VAlpha Fucks; Beta Bucks - used in TRP to denote the system that naturally occurs under female hypergamy.  Alpha males will be considered viable and desirable mates while betas will be considered good providers for everything but tingles.
+p42
+sVthuggery
+p43
+VThe act of giving the stinkeye to nearby males in order to display your AMOP (alpha male of park) status. 
+p44
+sVmindtrick
+p45
+VThis is not the Bot you are looking for.
+p46
 sVp-close
+p47
+VThe act of urinating in a woman's mouth to establish dominance.
+p48
+sVmantra3
+p49
+VKeep rolling that boulder, Sisyphus.
+p50
+sVfeminazi
+p51
+VThe people who are responsible for the death of millions of Jews and white knights
+p52
+sVgirlbait
+p53
+Va show/movie that tugs on a girlie's heart strings so you don't have too, example: frozen/tangled
+p54
+sVaffine
+p55
+V== wincest master
+p56
+sVpump
+p57
+V"This is the time when you first start lifting; this is where your evolution begins. Look at you; you've made some beginner gains that no one cares about, or notices, but you've experienced your first pump, and you've experienced your first loss of pump. You've seen what you could be and what you once were all in the same day. This is a lot to take in; this is your first taste of glory" - https://www.youtube.com/watch?v=7kbSfFFEvxw
+p58
+sVkarateclass
+p59
+Vhttps://www.youtube.com/watch?v=-2rIj9A5qIM
+p60
+sVhrm
+p61
+Va filler-syllable conveying unexpressed pondering
+p62
+sVlw
+p63
+VTo whine excessively like a beta faggot
+p64
+sVrabolix
+p65
+VIrrelevant plebian
+p66
+sVtindergame
+p67
+Vhttp://redd.it/2g8gt0
+p68
+sVlyingtowomen
+p69
+VBible approved. "Thou shalt not lie with mankind, as with womankind: it is abomination." - Leviticus 18:22
+p70
+sVtf
+p71
+VMr. "Why isn't she shit-testing me?"
+p72
+sVhodorgame
+p73
+V"Hodor! :) Hodor? Hodor. Hodor! HOOOOODOOOOOR!"
+p74
+sVpeptalk
+p75
+VRemember: she poops, she's self conscious, and someone somewhere is tired of her shit.
+p76
+sVsoftnext
+p77
+VTo place a woman on the backburner; to not initiate further contact, but be open to her attempts to contact you. See "next?"
+p78
+sVlimbo
+p79
+VThe state in which a girl hasn't decided whether you're a beta or an alpha. Usually you are placed in this state due to priorly dropped frame.
+p80
+sVcarbone
+p81
+Vbe nice
+p82
+sVplate
+p83
+VA woman among many others whom one is gaming to boost one's sexual market value. The relationship is such that they can be dropped whenever needed.
+p84
+sVltrgame
+p85
+Vhttp://redd.it/1tjcbg
+p86
+sVmpb
+p87
+V- Male pattern boldness - (http://en.wikipedia.org/wiki/Androgenic_alopecia)
+p88
+sVboobsorbutt
+p89
+VWhy choose one?
+p90
+sVfood
+p91
+V<Sonxesid> i think about food more than girls <tizen> food is reliable and doesn't bullshit. biscuits flake, but in a good way.
+p92
+sVhestrogen
+p93
+VHeston based estrogen. See Heston.
+p94
+sVnotch-collector
+p95
+VA man who assumes that his plates will provide insurance against being unhappy in old age. His sexual activities keep him busy, and he would be confused on what to do with his leisure time without them.  http://tinyurl.com/ovb9z3q
+p96
+sVderkaiser
+p97
+VThe chosen king of not butthurt
+p98
+sVchanstats
+p99
+V#theredpill channel statistics: http://tizen.github.io/
+p100
+sVfordinner
+p101
+VMaking you a sandwich right now babe
+p102
+sVgame
+p103
+VA loosely based set of behaviors specifically designed to increase attraction.
+p104
+sVmeditate
+p105
+Vhttp://www.urbandharma.org/udharma4/mpe.html
+p106
+sVshitlord
+p107
+Vthats us, folks.
+p108
+sVpussywhipped
+p109
+Vhttps://www.youtube.com/watch?v=ZyizX4kWtD8
+p110
+sVdt
+p111
+VDark Triad: The dark triad is a group of three personality traits: narcissism, Machiavellianism and psychopathy. Our resident expert IllimitableMan has a number of articles on the phenomenon: http://illimitablemen.com/power/
+p112
+sVfuckyourfill
+p113
+V"Someday, if you are lucky, you will wake up and realize that you are old. That pretty ass of yours will sag. Your belly will grow soft, and your back will ache in the night and grey hairs will sprout from your ears. No one will want you anymore. Make sure you fucked your fill before that day."
+p114
+sVfatshaming
+p115
+VA method by which one encourage others to obtain and maintain a healthy weight with shame. Proven to work. 
+p116
+sVheston
+p117
+VUsed to game at Sweet 16 parties. Now he just talks shit and tries too hard.
+p118
+sVbpd
+p119
+VBorderline Personality Disorder
+p120
+sVcrabs
+p121
+Vbeta orbiters
+p122
+sVredpill
+p123
+VFrom the Matrix films, the recognition and awareness of the way that feminism, feminists. and their white-knight enablers are screwing up society. Often hard to swallow, because it sharply contrasts the fairy tale views instilled in youth. Antonym of Bluepill.
+p124
+sVequality
+p125
+VEquality does not exist, faggot.
+p126
+sVroxanning
+p127
+Vdictating what a guy should do when wooing a woman, like in the 1987 steve martin movie roxanne http://youtube.com/watch?v=_PZ_LyJfYe8
+p128
+sVoxygen
+p129
+V"Sex is like oxygen; it only matters when you aren't getting enough."
+p130
+sVwallbanger
+p131
+Va woman who has hit the wall
+p132
+sVexcessflood
+p133
+VThe quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The quick brown fox jumped over the lazy dog. The
+p134
+sVrtfm
+p135
+VGo read the sidebar
+p136
+sVtryouts
+p137
+VA tournament of hoes where the goal is a LTR with you.
+p138
+sVamog
+p139
+VAlpha Male Of Group. Additionally, the term "AMOGing" is used for males attempting to one-up another male they perceive as more dominant than they in a social setting.
+p140
+sVdoxx
+p141
+Vif you're worried about being doxxed, you need to improve your frame
+p142
+sVraptortin
+p143
+VAKA Bones. 
+p144
+sV"soft
+p145
+Vnext" To place a woman on the backburner; to not initiate further contact, but be open to her attempts to contact you. See "next?"
+p146
+sVgtmap
+p147
+Vhttp://i.imgur.com/MdohAxT.jpg
+p148
+sVbluepill
+p149
+VFrom The Matrix and its sequels, to be plugged in to society's expectations for you; to live in subservience, often against your best interest, towards the whims and desires of female society. Antonym of Redpill.
+p150
+sVagreeandamplify
+p151
+VAgree & Amplify - A common tactic used to negate a shit test. ex. "How many girls have you been with?" "Today? None that I can remember"
+p152
+sVsoft
+p153
+Vnext To place a woman on the backburner; to not initiate further contact, but be open to her attempts to contact you. See "next?"
+p154
+sVrtfsb
+p155
+VRead The Fucking Side Bar
+p156
+sVawalt
+p157
+VAll Women Are Like That. See NAWALT.
+p158
+sVsparkles
+p159
+Vaka Aetrix. Makes these kinds of threats: https://i.imgur.com/x9To6ba.png Also, a very faggy name.
+p160
+sVzanax
+p161
+VAKA zanx -  Massive cunt.
+p162
+sVwhywasibanned?
+p163
+VBeep Bop Boop.
+p164
+sVwsm
+p165
+Vhttps://www.youtube.com/watch?v=rAlTOfl9F2w
+p166
+sVframe
+p167
+VFrame is your outward appearance of the person you are claiming to be internally. A strong frame represents a person that is resistant to emotional manipulation, just as a weak frame is someone who appears to be vulnerable to emotional manipulation.
+p168
+sVbuttsex
+p169
+Vsurprise!
+p170
+sVstripclub
+p171
+VThe Recursive {term:stripclub}.
+p172
+sVmantra
+p173
+VA Red Pill haiku / Read the sidebar, lift, next her. / That is the essence.
+p174
+sVbetahappyhour
+p175
+V12~Staying true to the blue!~ (When two or more betas rehash shit they can easily find the answer to if they bother to read, learn and practice. Generally annoying behavior). https://www.youtube.com/watch?v=5ffZgq3yvB0
+p176
+sVnegging
+p177
+Va backhanded compliment, to show interest but also to maintain a position of strength.
+p178
+sVtranny
+p179
+VBelow a 4 crazy, above an 8 hot. (https://www.youtube.com/watch?v=XuI6GTY9eVc)
+p180
+sVclose
+p181
+VAlways be closing https://www.youtube.com/watch?v=8kZg_ALxEz0
+p182
+sVnofap
+p183
+Vincel alchemy
+p184
+sVirishred
+p185
+V Seamus-lookin' pasty ass nigga who begs for + but is a really cool guy
+p186
+sVanteros
+p187
+VThe iron-fisted one who has a way with words
+p188
+sVfomo
+p189
+VFear of missing out.
+p190
+sVorbiter
+p191
+VAlso known as Beta Orbiter. A beta guy who accepted the proposal to "just be friends" from a girl he has oneitis for. He will stick around her and constantly validate her whenever she requests it. Also known as "friendzone."
+p192
+sVniceguy
+p193
+VA beta male trait. A nice guy is a man who puts his wants, desires, and ultimately himself last for the whims and needs of another with the often unmet expectation of a reward. Read the book "No More Mr Nice Guy"
+p194
+sVrp
+p195
+VFrom the Matrix films, the recognition and awareness of the way that feminism, feminists. and their white-knight enablers are screwing up society. Often hard to swallow, because it sharply contrasts the fairy tale views instilled in youth. Antonym of BP.
+p196
+sVnoob
+p197
+VA noob is a person who really sucks at game but refuses to learn/listen to people who are skilled. Many of them may have been playing the game for a while, but still suck at it. They usually have no hope.
+p198
+sVnuclear
+p199
+VFirst you tried being a good person, then you didn't care anymore, and now you're nuclear with a woman. When all attempts to get laid failed, or she presents herself as unsuitable, you say whatever you freely want to her; destroying her frame in the process. May lead to heated exchanges with social consequences; use responsibly.
+p200
+sVtil
+p201
+VToday I Learned
+p202
+sVsmp
+p203
+VSexual Market Place: Your locale for women. The rules slightly change; some men have to run beta game in their SMP, or hard dick game. See SMV?
+p204
+sV"test
+p205
+Vwith quotes" bar
+p206
+sVpussyshame
+p207
+Vhttps://www.youtube.com/watch?v=DAYNwC-aMgQ
+p208
+sVwowso
+p209
+Vayy lmao
+p210
+sVversion
+p211
+V{version} by Tizen
+p212
+sVbetaorbiter
+p213
+VSee orbiter
+p214
+sVdlv
+p215
+VDisplay of lower value.
+p216
+sVn-close
+p217
+V{term:nclose}
+p218
+sVb-close
+p219
+VPutting a girl into the boscop zone. See: theboscopzone
+p220
+sVatj1
+p221
+VAaronTheJust's rule #1: If a women is substantially interested in you, she will drop any and all prior activities to give you that time instead.
+p222
+sVmarriage
+p223
+VIf you have to ask, no.
+p224
+sVpimpslickback
+p225
+V- A pimp named slipback, our resident red pill expert on bitch maintenance techniques - https://www.youtube.com/watch?v=A6_zN5Lh2yQ
+p226
+sVapproach
+p227
+VApproach anxiety is the social inhibition of being able to talk to women with sexual intent. With training, it can be overcome.
+p228
+sVbabyfuck
+p229
+VIt's awwriiight.
+p230
+sVrk
+p231
+Vhttps://en.wikipedia.org/wiki/R/K_selection_theory
+p232
+sVjelquing
+p233
+Va penis-enlargement technique involving massaging blood into the distal end of the penis
+p234
+sVbo
 p235
-VThe act of urinating in a woman's mouth. Establishes dominance.
+VSee orbiter
 p236
-sVtrpbot
+sVmonkmode
 p237
-V{version} by Tizen(work/home)
+VMonk Mode: Temporary volcel in order to reprioritize what is important in a man's life. A lifestyle in which men continuously concentrate on building up their SMV. Read more: http://illimitablemen.com/2014/04/13/monk-mode/
 p238
-sVshouldigoout
+sVfuckmarriage
 p239
-V- Why the fuck are you sitting on your ass? Go out and make 5 approaches just for asking!
+VIf you're wondering if marriage is a good idea and it's not some islamic arrangement, you're being manipulated, IT'S A BAD IDEA IDIOT. Read this shit: http://www.reddit.com/r/TheRedPill/comments/2lxh1j/how_a_man_and_a_woman_became_billionaires_in_2/clzuvy7
 p240
-sVdread
+sVhowcansheslap?
 p241
-VDread Game - Cultivating an air of unpredictability, mixed signals, danger, and drama within a relationship in order to encourage a womans love for you to blossom. http://tinyurl.com/pdny6zk
+V"How can she slap?!?" "HOW CAN SHE SLAP?!?!" (Video: https://www.youtube.com/watch?v=V4akMaeZ0-k) - The philosophical pondering of an Indian man about to have the royal shit kicked out of him by a white knight batallion. Highlights the double standards in domestic violence between men and women. Also makes Indians as a cultu
 p242
-sVfrozon
+sVrubycando
 p243
-VThe will matches the drapes. 
+Vplease kick me
 p244
-sVsmv
+sVlmr
 p245
-VSexual Market Value: What is brought to the table, both long and short term breeding prospects, relational desirability, male provisioning capacity, female fertility, sexual desirability and availability.
+VLast Minute Resistance
 p246
-sVn0
+sVmmv
 p247
-VSeal
+VMarriage Market Value. A shorthand statement for \u201cwhat you bring to a marriage/LTR,\u201d whether for a long term monogamous relationship or for a marriage. MMV is a balance of attraction, reliability, and leadership. The focus is building a strong couple, or a strong family.
 p248
-sVsigma
+sVcirclejerk
 p249
-V Sigma is the bad-ass rebel guy.
+VThis chatroom is like a temple with a bar. Some come to learn exclusively at the temple. Others enjoy the male bonding available at the bar. Both are welcome.
 p250
-sVmra
+sVgerbiltriforce
 p251
-VMen's Rights activist.
+Vwhen too many gerbils combine to form their shitty rationalizations that are betamax.
 p252
+sVpua
+p253
+VPick-Up Artist(ry): The irrational belief that crafting strategy to get a woman is more important than working on yourself (which is the key to getting women in the first place.)
+p254
+sVstrongwords
+p255
+Vay bby u wan sum fuk?
+p256
+sVbp
+p257
+V"Blue Pill", from The Matrix and its sequels. The path of conformity with Society\u2019s expectations; the state of being unaware of the problems engendered by society. See also "rp".
+p258
+sVmith
+p259
+VMithridatism is the practice of protecting oneself against a poison by gradually self-administering non-lethal amounts. The word derives from Mithridates VI, the King of Pontus, who so feared being poisoned that he regularly ingested small doses, aiming to develop immunity.
+p260
+sVasd
+p261
+VAnti-Slut Defense: hamsterization of former promiscuity
+p262
+sVboscopzone
+p263
+V{term:theboscopzone}
+p264
+sVdoms
+p265
+VDelayed Onset Muscle Soreness
+p266
+sVmangina
+p267
+VAn unfortunate (in all ways) combination of \u201cman\u201d and \u201cvagina\u201d. Generally used to describe a male person who has left his balls in some woman\u2019s purse.
+p268
+sVtimeho
+p269
+VPopularized by Patrice O'neal (see blackphillip?): A time ho is a man who squanders his time resource like a female ho squanders her sexual resource. This clip is a MUST LISTEN: https://www.youtube.com/watch?v=t9QOQNcpuiA
+p270
+sVasl
+p271
+VAndroid/2hours/Interwebz
+p272
+sVregret
+p273
+Vthis is not The Regret Pill. 
+p274
+sVltr
+p275
+VLong Term Relationship. Check out: http://www.reddit.com/user/OccamsUsername/submitted/
+p276
+sVipreferpi
+p277
+VFormerly known as Reality
+p278
+sVsapiosexual
+p279
+VOne who finds intelligence the most sexually attractive feature.
+p280
+sVslutdivorce
+p281
+Vhttp://socialpathology.blogspot.com/2010/09/sexual-partner-divorce-risk.html
+p282
+sVq.v.
+p283
+V"Quod vide", look it up.
+p284
+sVam
+p285
+Vsee amused mastery
+p286
+sVantidisestablishmentarianism:
+p287
+Vseriously?
+p288
+sVa&a
+p289
+V{term:agreeandamplify}
+p290
+sVvaginismus
+p291
+Va condition in which her vagina clamps down in response to being penetrated; it's not her fault
+p292
+sVhaikugame
+p293
+VThe art of using haikus as a text game strategy. Ex: http://i.imgur.com/uKulCbG.jpg
+p294
+sVweakwords
+p295
+VHow are you, {you}? :) I just wanted to know, if, you were maybe free, if you'd like to go out with me sometime? xD It's totally okay if you're busy though! If not, we can go anywhere that you want to go! Trust me, we'll have a lot of fun together :) Like I said, it's totally cool if you're busy, but, uh, I think this would be cool. Hello? ...Hello? pls respond
+p296
+sVidontknowwhattodonext
+p297
+VGo lift!
+p298
+sVexredpill
+p299
+Vhttp://i.imgur.com/kiLNOaH.gif
+p300
+sVego-dystonia
+p301
+Va state of existential stress that arises when we are aware that we are making life choices that are not consistent with our highest and best self-image; in general, a violation of our own consciences
+p302
+sVapproachanxiety
+p303
+VSomeone with approach anxiety feels highly nervous, awkward and distressed before the act of approaching and getting to know women he has never met before. Derives from man's fear that he has the possibility of being rejected. Can be gerbil\u2019d into \u201cI want to work on myself first\u201d or \u201call the girls at this bar are sluts\u201d
+p304
+sVvariance
+p305
+VAbsolutely not an excuse for gerbiling, but something to keep in mind: Your game is spot on, but doesn't work? There are outside factors besides your game in fucking a woman. Maybe she is on her period, or maybe she is fucked up in the head. Do not deviate from developing your game due to these factors. Learn to spot variance and factor it into your evaluations of situations.
+p306
+sVsilence
+p307
+V"No." -"..." "I can't." -"..." "Well..." -"..." "Okay fine." SLURP SLURP SLURP
+p308
+sVfriendzone
+p309
+VAlso known as Beta Orbiter. A beta guy who accepted the proposal to "just be friends" from a girl he has oneitis for. He will stick around her and constantly validate her whenever she requests it.
+p310
+sVfluviant
+p311
+VHas something better you can slob on https://www.youtube.com/watch?v=fTWgjg2ZQeY
+p312
+sVlove
+p313
+Vhttp://laidnyc.wordpress.com/2013/06/05/the-parable-of-mark-and-lauren/
+p314
+sVwall
+p315
+VThe point in a woman's life where her ego and self-assessed view of her sexual market value exceed her actual sexual market value; the beginning of the decline.
+p316
+sVfoobar
+p317
+V{you} is a fag.
+p318
+sVmgtow
+p319
+VMGTOW (Men Going Their Own Way) is a way of life which refuses to defer to women in defining the worth of men. Instead, it focuses on positive male aspects, inviting men to go their own way in life.
+p320
+sVpos
+p321
+VPiece Of Shit
+p322
+sVshittest
+p323
+Vhttp://redd.it/2pb4fs
+p324
+sVfeelings
+p325
+Vhttp://youtu.be/ts6FPBTWwcM
+p326
+sVstealthsuit
+p327
+VRighteously racist, in a good way. 
+p328
+sValpha
+p329
+VLeader. Somebody who displays high value, or traits that are valued by women.
+p330
+sVsgm
+p331
+VSex God Method
+p332
+sVsubhazard
+p333
+Vhttp://imgur.com/RTp2DIU
+p334
+sVpof
+p335
+VPlentyOfFish.com
+p336
+sVons
+p337
+VOne Night Stand
+p338
+sVcho
+p339
+Vhttps://www.youtube.com/watch?v=M37HHf099oM
+p340
+sVnawalt
+p341
+VNot All Women Are Like That. A common response to generalizations, signaling a fundamental inability to understand how generalizations work.
+p342
+sVqts
+p343
+Vquicktimes: beating your premature ejaculation record (see also: cuties)
+p344
+sVmbti
+p345
+Vhttp://www.humanmetrics.com/cgi-win/jtypes2.asp
+p346
+sVnuke
+p347
+Vhttp://illimitablemen.com/understanding-the-red-pill/red-pill-constitution/
+p348
+sVgerbil
+p349
+VThe male version of the rationalization hamster. See also: hamster
+p350
+sVwhiteknight
+p351
+VA man who \u201ccomes to the rescue\u201d of a woman, or of women, reflexively, emotionally-driven, without thought or even looking at the situation
+p352
+sVcumbubble
+p353
+VWhen TRP advice is too real, and you're being beta for whatever reason, ignoring Redpillers to shield yourself in the echo-chamber of your own little cum bubble.
+p354
+sVmma
+p355
+Vmixed martial arts
+p356
+sVcplusequality
+p357
+VThe one true programming language https://gitorious.org/c-plus-equality/c-plus-equality
+p358
+sVmrfap
+p359
+Vhttps://www.youtube.com/watch?v=v163ZHhgDwY
+p360
+sVclitcommander
+p361
+V Who gives the orders heeeeyyaaa?? Awwright!
+p362
+sVsmv
+p363
+VSexual Market Value: What is brought to the table, both long and short term breeding prospects, relational desirability, male provisioning capacity, female fertility, sexual desirability and availability.
+p364
+sVnext
+p365
+VTerminate pursuit of a specific woman due to red flags or other signs that she will require more effort than she is worth.
+p366
+sVphyst
+p367
+VOn a permanent bulk.
+p368
+sVbeer
+p369
+Vkempff passes {you} a cold glass of Vodka. Drink up!
+p370
+sVkiwiirc
+p371
+VKiwiIRC is currently unstable. Please use tinyurl.com/TRPirc
+p372
+sVtizen
+p373
+VThe Zeus of sex.
+p374
+sVbender
+p375
+VTell her "Shut up baby I know it."
+p376
+sVtime
+p377
+VThe time is currently {time} UTC-5.
+p378
+sVprivilege
+p379
+VMuch like the oil in your vehicle, this should be checked often.
+p380
+sVincel
+p381
+VInvoluntarily Celibate.
+p382
+sVpclose
+p383
+V{term:p-close}
+p384
+sVtheboscopzone
+p385
+V"You unlock this door with the key of helping a bro out. Beyond it is another dimension - a dimension of aspergers, a dimension of gerbiling, a dimension of ignoring your advice. You're moving into a land of both wasting time and energy. You've just crossed over into the Boscop Zone." www.theboscopzone.com
+p386
+sVbeard
+p387
+Vgrow one
+p388
+sVhug
+p389
+VAetrix gives {you} a hug
+p390
+sVnonsense
+p391
+Vasjfal;sdjf
+p392
+sVwowsotime
+p393
+VMy local time is fuck you.
+p394
+sVjackp
+p395
+VHow not to apply TRP.  Please ignore.
+p396
+sVslumpbuster
+p397
+VYour mom.
+p398
+sVclitoris
+p399
+Va mythical appendage said to be integral to the female anatomy; Amundsen couldn't even find it
+p400
+sVbmoc
+p401
+VBig Man On Campus, an AMOG status in an undergraduate college context
+p402
+sVmcd
+p403
+VMassive Cunt Detector: Using a highly advanced heuristic, the MCD determines if one is using AMOG tactics incorrectly.  Mk. 1 collapsed under immense cuntery and has been parted out. Reborn. The legacy lives on.
+p404
+sVboscop
+p405
+VIf Socrates received too many vaccinations as a child: simultaneously intelligent and confused.
+p406
+sVjamesfranco
+p407
+VA tool. Alias used by humvee.
+p408
+sVbulk
+p409
+VFigure up your BMR, eat 500-1000 calories above that per day in high protein foods primarily (chicken, beef, pork, almonds, eggs, etc), good carbs (not refined sugar or bread, beans/brown rice/oats), then a healthy amount of saturated fat (and fat); fat should be over 10% of your daily calories.
+p410
+sVfailure
+p411
+VThere is no failure. Only feedback.
+p412
+sVlift
+p413
+V1:) Lift heavy objects. 2:) Put heavy objects down. 3:) Repeat. Look into Starting Strength, 5x5, Elliot Hulse, Hodgetwins, Convict Conditioning, BroScienceLife, /r/fitness, /r/ketogains, /r/bodyweightfitness
+p414
+sVispiracyallowed
+p415
+VNo
+p416
+sVrimshot
+p417
+VBa dum tsss!
+p418
+sVrules
+p419
+V1:) No trolling. 2:) Undesirables will be removed. 3:) Stay RP my friends.
+p420
+sVpwo
+p421
+VPreworkout Supplement
+p422
+sVljbf
+p423
+V"Let's Just Be Friends" See also, orbiter
+p424
+sVoneitis
+p425
+VWhen a guy has fallen in love with a woman in the same way a boy loves his mother. He obsesses about her, but she does not reciprocate. Love is a drug, and your dumbass got addicted to one supplier. 
+p426
+sVbodyweight
+p427
+VYes, you can get stronger doing bodyweight.  No it will not be as fast as lifting weights.  Yes you can get aesthetic.  No you will not be as aesthetic as a bodybuilder.  Stop talking about bodyweight, no one wants to hear it.
+p428
+sV5stages
+p429
+VThe 5 stages of unplugging. See: http://therationalmale.com/2012/07/25/the-5-stages-of-unplugging/
+p430
+sVfdb
+p431
+Vhttps://www.youtube.com/watch?v=94MK2JQIgFs
+p432
+sVlandingwood
+p433
+Van hero
+p434
+sV16
+p435
+Vhttps://heartiste.wordpress.com/the-sixteen-commandments-of-poon/
+p436
+sVkino
+p437
+Vkinesthetic game, involving mastery of body language and physical contact
+p438
+sVdom
+p439
+VDocument Object Model: http://en.wikipedia.org/wiki/Document_Object_Model
+p440
+sVsubhazardparadox
+p441
+VWhen you supply a man with balls and unintentionally discourage him from listening to his own balls.
+p442
+sVlagbot
+p443
+VYes, always
+p444
+sVventura
+p445
+Vhttps://www.youtube.com/watch?v=HayFxnfFgZk
+p446
+sVtinder
+p447
+V"Always swipe right." A dating app that proves that you really can judge a book by it's cover. Highly enhanced by using a bot to swipe for you, such as this one http://goo.gl/A89TXW
+p448
+sVmr
+p449
+VMen's Rights Group.
+p450
+sVfaggot
+p451
+Vhttps://www.youtube.com/watch?v=HayFxnfFgZk
+p452
+sVcomforttest
+p453
+VWhen a girl you're in an LTR with needs *legitimate* beta validation that you aren't a flight risk. Not to be confused with fitness tests, in which she is solely vying for your dominance.
+p454
+sVcg--
+p455
+Vhe gawn suck yo dick
+p456
+sVnerds
+p457
+Vhttps://www.youtube.com/watch?v=tZVdR19E5mU
+p458
+sVsubconcern
+p459
+VThe subreddit is (and should always be) in a state of Eternal September (http://tinyurl.com/8xu88as) due to the transition its users are experiencing. If you are concerned about its moderation, content or anything else, submit quality posts and take the first train to shutthefuckup-ville.
+p460
+sVaa
+p461
+VSee either: approachanxiety or agreeandamplify
+p462
+sVdarktriad
+p463
+V{term:dt}
+p464
+sVhypergamy
+p465
+VThe instinctual urge for women to seek out the best alpha available.
+p466
+sVuggo
+p467
+Vugly
+p468
+sVldltr
+p469
+VNo. Just no.
+p470
+sVquench
+p471
+VThe solution to thirst: fap 3 times, ice your balls
+p472
+sVcirdanvalen
+p473
+Vhttp://i.imgur.com/eHHXf5H.png
+p474
+sVpatrice
+p475
+VLove doctor: https://www.youtube.com/user/CultOfBlackPhillip  RIP
+p476
+sVtest4
+p477
+Vtest1: {term:test1} ** test2: {term:test2}
+p478
+sVfuck
+p479
+Vher right in the pussy Yes.
+p480
+sVidlechatter
+p481
+V"Hey :)" "Hey there" "Hello" "Hi." "How's your day?" "How's work"
+p482
+sVmonk
+p483
+Vmode withdrawal from society for the sake of self-improvement
+p484
+sVgaslighting
+p485
+Vmanipulating someone's perception of reality principally by denying knowledge of something that objectively took place, e.g. denying knowledge of how a glass got broken during a fight in which the gaslighter herself threw it against the wall - from the 1944 movie *Gaslight*, in which a woman is slowly driven insane by being gaslighted
+p486
+sVfwb
+p487
+VFriends With Benefits
+p488
+sVincelmagic
+p489
+VNofap.
+p490
+sVhbd
+p491
+VHuman Bio Diversity
+p492
+sVcardio
+p493
+VKiller of gains. See lift?
+p494
+sVif
+p495
+VIntermittent Fasting
+p496
+sVagency
+p497
+VThe ability, freedom and recognition that your actions are your own, and that they have consequences you are responsible for, regardless of your environment.
+p498
+sVdennis
+p499
+Vhttps://www.youtube.com/watch?v=QZuOKUrwoys
+p500
+sVsausagefest
+p501
+VSausagefest: an environment in which there are far too many other guys than girls for proper execution of game
+p502
+sVscottishredpill
+p503
+VNot worth the effort. 
+p504
+sVpushpull
+p505
+VPush/pull is whenever you emotionally push a woman away from you...and then emotionally pull her back in. Each push creates an emotional space for each pull. Most women find this funny, charming, and playful. More importantly, it generates attraction: the emotion of wanting more of you.
+p506
+sVchrisdotcode
+p507
+VHalf excellent advice, half Pokemon talk and Jesus proselytizing
+p508
+sVsharpknees
+p509
+Vhttp://i.imgur.com/mnKFr7B.jpg
+p510
+sVcomfort
+p511
+VWhen a girl you're in an LTR with needs *legitimate* beta validation that you aren't a flight risk. Not to be confused with fitness tests, in which she is vying for/assessing your dominance.
+p512
+sVping
+p513
+Vpong
+p514
+sVbeaman
+p515
+Vhttps://www.youtube.com/watch?v=eGMN-gNfdaY
+p516
+sVkarateschool
+p517
+VCoined by Patrice O'neal, and a metaphor for game, you are the Sensei of your karate school. Women white belts come and go, and they have to earn their belts. You may spar with many at a time, or narrow it down to the best black belt. She will try to win at every chance she can get; hold frame and one up her when challenged.
+p518
+sVcsb
+p519
+VNow THAT is what I call a cool story bro!
+p520
+sVmantra2
+p521
+VBuck up, faggot. <3
+p522
+sVexcuses
+p523
+Vfuck your excuses you can do it if this guy can https://www.youtube.com/watch?v=bmav517MQJc
+p524
+sVcarousel
+p525
+V\u201cCock Carousel.\u201d The period of time in a woman's life where she successfully exploits her sexual value and maximizes her hypergamous tendancies by having sex with as many alphas as possible. Usually happens between ages 18-27. Often ends when the woman hits the wall.
+p526
+sVcheatsheet
+p527
+Vhttp://www.reddit.com/r/TheRedPill/comments/2n3lyq/game_cheat_sheet_rtrpgame_repost/
+p528
+sVltr-game
+p529
+VSee https://www.reddit.com/r/TheRedPill/comments/1tjcbg/ltr_game_maintaining_frame/
+p530
+sVflowchart
+p531
+Vhttps://i.imgur.com/Yjq7Nbc.png
+p532
+sVhugs
+p533
+Vgive dabayer  one
+p534
+sV10scale
+p535
+Vhttp://cdn.returnofkings.com/wp-content/uploads/2013/08/pictorialscale.jpg
+p536
+sVshouldigoout
+p537
+V- Why the fuck are you sitting on your ass? Go out and make 5 approaches just for asking!
+p538
+sVibs
+p539
+VImaginary Boyfriend Syndrome - when a bitch who may or may not have a boyfriend uses "BUT muh boyfriend!!" as an excuse to halt escalation or de-escalate once a certain stage of escalation has already been reached.
+p540
+sVsnowflake
+p541
+VA woman who tries to persuade a man that she\u2019s somehow unique, different, or special by playing up her good girl resume and downplaying her bad girl resume. When used as a verb, snowflaking refers to the argument she puts forth to justify her claim.
+p542
+sVtest
+p543
+Vget your levels checked
+p544
+sVhamster
+p545
+VThe tendency for women to use rationalization to resolve mental conflict and avoid cognitive dissonance. The core mechanism that allows women to say one thing and do a different thing. http://stream1.gifsoup.com/view/12753/hamster-wheel-o.gif
+p546
+sVcockofage
+p547
+V"But brah there's so much cock near her. Yeah. Kiddy cock, old man cock, not all cock is equal cock. Not all cock is rideable to girls. Not all cock is... "cock of age!"
+p548
+sVfr
+p549
+VField Report, a narration of an incident in which redpill principles were put into action perfectly or imperfectly, for the edification of the RP community
+p550
+sVzyzz
+p551
+V"We're all gonna make it brah." http://i.imgur.com/u76obTs.jpg http://imgur.com/a/EyzKg#0 https://www.youtube.com/watch?v=TMCvglcCYfM
+p552
+sVrabies
+p553
+V(Baby) An affliction that often strikes carousel-riding women when they first experience a slump in their SMV. The main symptom is that the ticking biological clock starts echoing in a mind formerly vacant of any such serious thoughts.
+p554
+sVtextgame
+p555
+Vhttp://redd.it/2670zc
+p556
+sVblackphillip
+p557
+Vhttps://www.youtube.com/user/CultOfBlackPhillip
+p558
+sVadvice
+p559
+Vhttp://i.imgur.com/8t3gbFG.jpg (NSFW) fuck her right in the pussy
+p560
+sVsl
+p561
+VStrongLifts http://stronglifts.com
+p562
+sVidfwu
+p563
+Vhttps://www.youtube.com/watch?v=cZaJYDPY-YQ
+p564
+sVdiet
+p565
+VOverweight: www.reddit.com/r/keto Underweight: Brown Rice, Pasta, Oats
+p566
+sVreplace
+p567
+Vsynonym of nexting her - replace her with another plate
+p568
+sVbodylanguage101
+p569
+Vhttp://westsidetoastmasters.com/resources/book_of_body_language/toc.html
+p570
+sVvirus
+p571
+VWhich of these is a deadly virus? A)Bola      B)Bola    C)Bola    D)Bola     E)Bola
+p572
+sVsjw
+p573
+VSocial Justice Warrior
+p574
+sVsolipsism
+p575
+V(female solipsism) Refers to the female's tendency to frame everything she experiences or witnesses in terms of herself and her own needs - personalizing it - even when such personalization would not make contextual sense.
+p576
+sVioi
+p577
+VIndicators of interest - examples: http://www.simplepickup.com/forum/questions-advice/2876-iois-indicators-interest.html
+p578
+sVunicorn
+p579
+VUnicorn not found. Unicorn may be created.
+p580
+sVoccamsnickname
+p581
+Vhttp://n.pr/P1Kq5x
+p582
+sVstats
+p583
+V#theredpill channel statistics: http://tizen.github.io/
+p584
+sVkempff
+p585
+VDid you mean Uncle Bartender?
+p586
+sVcc
+p587
+V\u201cCock Carousel.\u201d The period of time in a woman's life where she successfully exploits her sexual value and maximizes her hypergamous tendancies by having sex with as many alphas as possible. Usually happens between ages 18-27. Often ends when the woman hits the wall.
+p588
+sVman
+p589
+VWhat you should be.
+p590
+sVdhv
+p591
+VDemonstration of Higher Value: To display high sexual value and status to a woman, making you the target of sexual attraction.
+p592
+sVtexthelp
+p593
+VGive a man a text and he gets laid maybe once, teach a man how to text and he gets laid for a lifetime. Maybe.
+p594
+sVphill
+p595
+VA lame
+p596
+sVcoolidgeeffect
+p597
+VThe Coolidge effect is a phenomenon seen in mammalian species whereby males (and to a lesser extent females) exhibit renewed sexual interest if introduced to new receptive sexual partners, even after refusing sex from prior but still available sexual partners.
+p598
+sVss
+p599
+VStarting Strength. 3x5 workout routine based on the http://www.amazon.com/Starting-Strength-Mark-Rippetoe-ebook/dp/B006XJR5ZA
+p600
+sVpuafools
+p601
+Vhttps://www.youtube.com/watch?v=wxz6_QOcOLo
+p602
+sVregister
+p603
+VQuakeNet registration instructions: http://quakenet.org/help/19
+p604
+sVarmcandy
+p605
+Va girl you're not necessarily having sex with, whom you take around to raise your smv via social proof and implied preselection, to trigger other girls' hamsters
+p606
+sVneg
+p607
+VSee negging.
+p608
+sVmra
+p609
+VMen's Rights activist.
+p610
+sVlaere
+p611
+Vkik: laere69master snapchat: laere69wontscreenshotnoods
+p612
+sVnon-sense
+p613
+VFoo
+p614
+sVtrpbot
+p615
+V{version} by Tizen(work/home)
+p616
+sVskittles
+p617
+VThe one gift that never fails to excite a woman. http://tinyurl.com/k8m58b2
+p618
+sVdread
+p619
+VDread Game - Cultivating an air of unpredictability, mixed signals, danger, and drama within a relationship in order to encourage a womans love for you to blossom. http://tinyurl.com/pdny6zk
+p620
+sVfrozon
+p621
+VThe will matches the drapes. 
+p622
+sVsonxesid
+p623
+V <Sonxesid> i don't really understand
+p624
+sVn0
+p625
+VSeal
+p626
+sVsocrateslift
+p627
+V"No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable." - Socrates
+p628
+sVsa
+p629
+VSomeone's supplicating! Sound the supplication alarm! WEE UUU WEE UUU
+p630
+sVsigma
+p631
+V Sigma is the bad-ass rebel guy.
+p632
+sVego
+p633
+Vhttps://www.youtube.com/watch?v=HxUuDPNbkJk
+p634
 s.
